@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java.test.swt.label/src"/>
+	<classpathentry kind="lib" path="java.test.swt.label/org.eclipse.swt.gtk.linux.x86_64_3.105.3.v20170228-0512.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

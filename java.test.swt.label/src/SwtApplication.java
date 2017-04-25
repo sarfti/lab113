@@ -12,7 +12,7 @@ public class SwtApplication {
 	public SwtApplication() {
 		display = new Display();
 		shell = new Shell(display);
-		shell.setText("Пример виджета Label");
+		shell.setText("Пример виджета Label (v1)");
 		shell.setSize(500, 400);
 	}
 
