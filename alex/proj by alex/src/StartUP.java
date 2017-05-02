@@ -5,6 +5,7 @@ public class StartUP {
 		// TODO Auto-generated method stub
 /*
  * TO DO Тут в будущем будет крутой код
+ * Всё ещё ничего :(
  */
 	}
 
