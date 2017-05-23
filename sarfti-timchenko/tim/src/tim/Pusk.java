@@ -1,5 +1,7 @@
 package tim;
 
+import java.util.Arrays;
+
 public class Pusk {
 
 	/**
@@ -9,6 +11,8 @@ public class Pusk {
 		// TODO Auto-generated method stub
 		System.out.println("Здравствуйте=)");
 		System.out.println("Сортировка массива");
+
+		ArraysUtils.simpleSort();
 	}
 
 }
